@@ -1,4 +1,2 @@
 # Marianne-Leite-Nascimento
-Desennvolvedora mobile | multiplataforma inciante
-Com conhecimento em UX|UI desing
-Dart & Flutter
+Desennvolvedora mobile | multiplataforma inciante | UX/UI desing | Dart & Flutter
